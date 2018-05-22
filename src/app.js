@@ -895,7 +895,6 @@ Please make a backup of your contracts and start using http://remix.ethereum.org
   }
 }
 
-
 const css = csjs`
   html { box-sizing: border-box; }
   *, *:before, *:after { box-sizing: inherit; }
